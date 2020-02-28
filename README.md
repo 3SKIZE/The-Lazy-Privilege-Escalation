@@ -8,20 +8,20 @@ It facilitates the use of them too brilliant and very powerful tools with its co
 It is a very practical transportable script that we download to a USB key that we plug into a machine that we have physical access to (for example during the absence of your boss ...) and that we launch on the target machine. And we can then exploit the vulnerabilities found via metasploit for example.
 But if you want you can use this script on a meterpreter session from a distance to scan for exploit.
 
-How to do you P.S.E usb ? For local privilege escalation ?
-Download: First you must clone the files of Sherlock Master and of windows-privesc-check on an USB key For this just see README2.
-After you must clone this repositories on your USB.
+How to do your P.S.E usb ? For local privilege escalation ?
+Download: First you must clone the files of Sherlock Master and of windows-privesc-check on an USB key For this just see README2. Rename the files download into windows-privesc-check-master and into Sherlock-master.
+After you must clone this repositories (P.S.E.) on your USB and then extract the .zip and extract the contents of the files named "The-Lazy-Privilege-Escalation-master" at the root of your USB.
 
 Utilisation:
-To use this you must have a physical access to the Computer of your victim
+To use this you must have a physical access to the Computer of your victim or a shell meterpreter on the machine of the victim.
 After Download just start the script and choose an agent 
 
 \\\\ Attention I am just 13 years old and I use the batch beacause it more easy for me////
-\\\\ Attention The update system is not ready and I don't know how I can do to create this update system so If you wnat to help me Lets go !////
+\\\\ Attention The update system is not ready and I don't know how I can do to create this update system so If you want to help me Lets go !////
 
 
 You can join me for question or advice for me here
 adresseops@gmail.com
 
-Thunk you for your visit !
+Thank you for your visit !
 @Given$
