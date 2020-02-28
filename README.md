@@ -8,6 +8,7 @@ It facilitates the use of them too brilliant and very powerful tools with its co
 It is a very practical transportable script that we download to a USB key that we plug into a machine that we have physical access to (for example during the absence of your boss ...) and that we launch on the target machine. And we can then exploit the vulnerabilities found via metasploi for example.
 
 Download: First you must clone the files of Sherlock Master and of windows-privesc-check on an USB key For this just see README2.
+After you must clone this repositories on your USB.
 
 Utilisation:
 To use this you must have a physical access to the Computer of your victim
