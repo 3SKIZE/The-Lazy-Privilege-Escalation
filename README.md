@@ -1,12 +1,16 @@
 # The-Lazy-Privilege-Escalation
 A script by @Given$ 
 What is this script ?
-It is a batch script for windows he 's regrouping Sherlock-master and Windows-Privesc-check-master (and soon I hope other script will be add)
+It is a batch script for windows privilege escalation (local) he 's regrouping Sherlock-master and Windows-Privesc-check-master (and soon I hope other script will be add) 
 It is a script for the lazy !
-It facilitates the use of its two brilliant and very powerful tools with its command line interface very easy to use with an agent system (number)
+It facilitates the use of them too brilliant and very powerful tools with its command line interface very easy to use with an agent system (number)
 
+It is a very practical transportable script that we download to a USB key that we plug into a machine that we have physical access to (for example during the absence of your boss ...) and that we launch on the target machine. And we can then exploit the vulnerabilities found via metasploi for example.
 
-\\\\\Utilisation//////
+Download: First you must clone the files of Sherlock Master and of windows-privesc-check on an USB key For this just see README2.
+
+Utilisation:
+To use this you must have a physical access to the Computer of your victim
 After Download just start the script and choose an agent 
 
 \\\\ Attention I am just 13 years old and I use the batch beacause it more easy for me////
