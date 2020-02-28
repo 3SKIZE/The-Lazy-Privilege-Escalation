@@ -1,0 +1,12 @@
+The requirements: You must clone the repositories of Sherlock-master and of windows-privesc-check on your USB key
+Sherlock-master: https://github.com/rasta-mouse/Sherlock
+Windows-privesc-check: https://github.com/pentestmonkey/windows-privesc-check
+And then rename the folder created into Sherlock-master and into windows-privesc-check-master
+
+After clone this repositories (L.P.E) in the root of your USB and extract all the content of the file created ("The-Lazy-Privilege-Escalation")into the root of the USB Key.
+
+Now launch L.P.E
+
+Thank to the Creator of all the script used by L.P.E
+If you want to help me you can send me a mail here:
+adresseops@gmail.com
