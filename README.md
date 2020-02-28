@@ -5,7 +5,8 @@ It is a batch script for windows privilege escalation (local) he 's regrouping S
 It is a script for the lazy !
 It facilitates the use of them too brilliant and very powerful tools with its command line interface very easy to use with an agent system (number)
 
-It is a very practical transportable script that we download to a USB key that we plug into a machine that we have physical access to (for example during the absence of your boss ...) and that we launch on the target machine. And we can then exploit the vulnerabilities found via metasploi for example.
+It is a very practical transportable script that we download to a USB key that we plug into a machine that we have physical access to (for example during the absence of your boss ...) and that we launch on the target machine. And we can then exploit the vulnerabilities found via metasploit for example.
+But if you want you can use this script on a meterpreter session from a distance to scan for exploit.
 
 How to do you P.S.E usb ? For local privilege escalation ?
 Download: First you must clone the files of Sherlock Master and of windows-privesc-check on an USB key For this just see README2.
