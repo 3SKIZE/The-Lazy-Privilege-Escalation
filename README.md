@@ -1,3 +1,4 @@
+# The-Lazy-Privilege-Escalation
  ██▓     ▄▄▄      ▒███████▒▓██   ██▓       ██▓███   ██▀███   ██▓ ██▒   █▓▓█████   ██████  ▄████▄  
 ▓██▒    ▒████▄    ▒ ▒ ▒ ▄▀░ ▒██  ██▒      ▓██░  ██▒▓██ ▒ ██▒▓██▒▓██░   █▒▓█   ▀ ▒██    ▒ ▒██▀ ▀█  
 ▒██░    ▒██  ▀█▄  ░ ▒ ▄▀▒░   ▒██ ██░      ▓██░ ██▓▒▓██ ░▄█ ▒▒██▒ ▓██  █▒░▒███   ░ ▓██▄   ▒▓█    ▄ 
@@ -10,8 +11,6 @@
                   ░         ░ ░                                      ░                   ░        
 
 
-
-# The-Lazy-Privilege-Escalation
 A script by @Given$ 
 What is this script ?
 It is a batch script for windows privilege escalation (local) he 's regrouping Sherlock-master and Windows-Privesc-check-master (and soon I hope other script will be add) 
