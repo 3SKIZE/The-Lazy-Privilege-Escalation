@@ -2,18 +2,28 @@
 color c
 echo Created and Designed by @Given$
 echo All rights reserved
+pause
+@echo off
+echo ,'',                                         ,'',,'',                                                    
+echo ;  ;                                         ;  ;;  ;                                                    
+echo ;  ;     ,'',,''', ,'',,'', ,'',,'',         ;  ;',,' ,'',,'',  ,'', ,'',,'', ,'',,'', ,'',,'', ,'',,'', 
+echo ;  ;     ;  ;',  ;  '',;,,' ',,'',,'         ;  ;     ;  ;',  ; ;  ; ;  ;;  ; ;  ;',,' ;  ;',,' ;  ;',,' 
+echo ;  ;     ;  ;,'  ;   ',,'     ,'',           ;  ;     ;  ;,' ,' ;  ; ;  ;;  ; ;  ;',,' ',,','', ;  ;     
+echo ;  ;,'', ;  ;',  ; ,'', ,,    ;  ;           ;  ;     ;  ;', ', ;  ; ;  ;;  ; ;  ; ,,  ,'',;  ; ;  ;,'', 
+echo ',,'',,' ',,' ',,' ',,'',,'   ',,'           ',,'     ',,' ',,' ',,'  ','','  ',,'',,' ',,'',,' ',,'',,' 
+pause                                                                                                         
 :UP_BAR
 cls
 set /a FULL = FULL + 1
-set BAR=%BAR%�
+set BAR=%BAR%Û
 set /a NB_BAR = NB_BAR + 2
 echo.
 echo.
 echo        Chargement .... %NB_BAR%%%
-echo      ��������������������������������������������������Ŀ
+echo      ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
 echo       %BAR%
 echo       %BAR%
-echo      ����������������������������������������������������
+echo      ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
 echo.
 if %FULL%==50 goto :END_BAR
 goto :UP_BAR
