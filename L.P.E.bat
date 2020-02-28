@@ -27,7 +27,6 @@ echo.
 if %FULL%==50 goto :END_BAR
 goto :UP_BAR
 :END_BAR
-pause
 :boucle
 color c
 @echo off
