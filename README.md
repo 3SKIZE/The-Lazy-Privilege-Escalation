@@ -9,7 +9,7 @@ It is a very practical transportable script that we download to a USB key that w
 But if you want you can use this script on a meterpreter session from a distance to scan for exploit.
 
 How to do your L.P.E usb ? For local privilege escalation ?
-First you must install the requirements (see README-requirements) after clone this repositories (L.P.E) on your USB and then extract the .zip and extract the contents of the files named "The-Lazy-Privilege-Escalation-master" at the root of your USB.
+First you must install the requirements (see README-requirements) after clone this repositories (L.P.E) on your USB for Linux and for Windows download and extract the .zip at the root of your USB.
 
 Utilisation:
 To use this you must have a physical access to the Computer of your victim or a shell meterpreter on the machine of the victim.
