@@ -8,9 +8,10 @@
 The requirements: You must clone the repositories of Sherlock-master and of windows-privesc-check on your USB key
 Sherlock-master: https://github.com/rasta-mouse/Sherlock
 Windows-privesc-check: https://github.com/pentestmonkey/windows-privesc-check
-And then rename the folder created into Sherlock-master and into windows-privesc-check-master
+***And then rename the folder created into Sherlock-master and into windows-privesc-check-master***
+***Attention it very important, you must rename the files into Sherlock-master and into windows-privesc-check-master***
 
-After clone this repositories (L.P.E) in the root of your USB for LInux and for Windows just download the .zip and extract him at the root of your usb.
+After clone this repositories (L.P.E) in the root of your USB for Linux and for Windows just download the .zip and extract him at the root of your usb.
 Now launch L.P.E
 
 Thank to the Creator of all the script used by L.P.E
