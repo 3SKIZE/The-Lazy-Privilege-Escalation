@@ -9,13 +9,13 @@ It is a very practical transportable script that we download to a USB key that w
 But if you want you can use this script on a meterpreter session from a distance to scan for exploit.
 
 How to do your L.P.E usb ? For local privilege escalation ?
-First you must install the requirements (see README-requirements) after clone this repositories (L.P.E) on your USB for Linux and for Windows download and extract the .zip at the root of your USB.
+First you must install the requirements (see README-requirements) after clone this repositories (L.P.E) on your USB for Linux and for Windows just start the setup and choose your USB for the installation Folder
 
 Utilisation:
 To use this you must have a physical access to the Computer of your victim or a shell meterpreter on the machine of the victim.
 After Download just start the script and choose an agent 
 
-\\\\ Attention I am just 13 years old and I use the batch beacause it more easy for me////
+\\\\ Attention I am just 13 years old and I use the batch because it more easy for me////
 \\\\ Attention The update system is not ready and I don't know how I can do to create this update system so If you want to help me Lets go !////
 
 
