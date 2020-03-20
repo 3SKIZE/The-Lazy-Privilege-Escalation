@@ -29,9 +29,6 @@ rmdir %letter%:\The-Lazy-Privilege-Escalation-master\The-Lazy-Privilege-Escalati
 rmdir %letter%:\The-Lazy-Privilege-Escalation-master
 ren "Folder" "The-Lazy-Privilege-Escalation-master"
 
-cd /
-%letter%:
-
 echo [*]Download all requirements this could take a while don't stop this file !!!
 echo [*]Create the repertory Of Sherlock-master....
 
