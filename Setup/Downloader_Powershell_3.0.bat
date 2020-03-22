@@ -13,7 +13,7 @@ echo ___________________________________________________________________________
     
 ::Ask for the letter of the USB and Create a foler Sherlock-master 
 set link=http://download846.mediafire.com/iwx7uiwnlu1g/n46tuzd1nb9xpzr/Sherlock.ps1 
-
+set /p letter=What is the letter of your USB key~# 
 
 echo [*]Download all requirements this could take a while don't stop this file !!!
 echo [*]Create the repertory Of Sherlock-master....
